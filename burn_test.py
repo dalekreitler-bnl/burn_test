@@ -34,7 +34,8 @@ parser.add_argument('-f',
 args = parser.parse_args()
 
 def main():
-    print("Input equal area shells: " + str(args.N_shells))
+    print("=====================================\n"
+          +"Input equal area shells: " + str(args.N_shells))
     print("Input det. distance (mm): " + str(args.detector_distance))
     print("Input plot type: " + args.plot_type)
     plots = burn_test.MakePlots(data_type=args.plot_type)
@@ -45,9 +46,12 @@ def main():
     h=burn_test.get_half_intensity_frame_no('burn_test_all_res.csv')
     l=burn_test.get_half_spot_frame_no('burn_test_all_res.csv')
     z=burn_test.get_half_spot_no_ice_frame_no('burn_test_all_res.csv')
-    print("\n\nIntensities fall below 0.5*I0 at frame no.: "+str(h))
+    print("================================\n"+
+          "Burn rate stats\n"+
+          "================================\n"+           
+          "\nIntensities fall below 0.5*I0 at frame no.: "+str(h))
     print("Spots fall below 0.5*N0 at frame no.: "+str(l))
-    print("Spots (ice filtered) fall below 0.5*N0 at frame no.: "+str(z))
+    print("Spots (ice filtered) fall below 0.5*N0 at frame no.: "+str(z)+"\n")
     plots.parse_plot_fit_logs()
 
 if __name__ == "__main__":
