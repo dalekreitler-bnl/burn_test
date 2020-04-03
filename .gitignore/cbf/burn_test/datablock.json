@@ -1,0 +1,3085 @@
+[
+  {
+    "__id__": "DataBlock", 
+    "imageset": [
+      {
+        "__id__": "ImageSet", 
+        "mask": null, 
+        "images": [
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000001.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 0
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000002.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 1
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000003.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 2
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000004.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 3
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000005.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 4
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000006.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 5
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000007.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 6
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000008.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 7
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000009.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 8
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000010.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 9
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000011.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 10
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000012.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 11
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000013.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 12
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000014.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 13
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000015.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 14
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000016.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 15
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000017.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 16
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000018.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 17
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000019.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 18
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000020.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 19
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000021.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 20
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000022.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 21
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000023.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 22
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000024.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 23
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000025.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 24
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000026.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 25
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000027.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 26
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000028.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 27
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000029.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 28
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000030.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 29
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000031.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 30
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000032.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 31
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000033.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 32
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000034.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 33
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000035.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 34
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000036.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 35
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000037.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 36
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000038.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 37
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000039.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 38
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000040.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 39
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000041.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 40
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000042.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 41
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000043.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 42
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000044.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 43
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000045.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 44
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000046.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 45
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000047.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 46
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000048.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 47
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000049.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 48
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000050.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 49
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000051.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 50
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000052.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 51
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000053.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 52
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000054.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 53
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000055.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 54
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000056.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 55
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000057.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 56
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000058.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 57
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000059.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 58
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000060.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 59
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000061.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 60
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000062.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 61
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000063.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 62
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000064.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 63
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000065.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 64
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000066.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 65
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000067.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 66
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000068.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 67
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000069.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 68
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000070.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 69
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000071.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 70
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000072.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 71
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000073.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 72
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000074.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 73
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000075.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 74
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000076.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 75
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000077.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 76
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000078.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 77
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000079.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 78
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000080.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 79
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000081.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 80
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000082.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 81
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000083.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 82
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000084.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 83
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000085.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 84
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000086.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 85
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000087.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 86
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000088.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 87
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000089.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 88
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000090.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 89
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000091.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 90
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000092.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 91
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000093.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 92
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000094.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 93
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000095.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 94
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000096.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 95
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000097.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 96
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000098.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 97
+          }, 
+          {
+            "filename": "/home/dale/projects/burn_test/.gitignore/cbf/burn_5ms_000099.cbf", 
+            "gain": null, 
+            "pedestal": null, 
+            "dx": null, 
+            "dy": null, 
+            "beam": 0, 
+            "detector": 0, 
+            "goniometer": 0, 
+            "scan": 98
+          }
+        ], 
+        "params": {
+          "dynamic_shadowing": "Auto", 
+          "multi_panel": false
+        }
+      }
+    ], 
+    "beam": [
+      {
+        "direction": [
+          0.0, 
+          0.0, 
+          1.0
+        ], 
+        "transmission": 1.0, 
+        "polarization_normal": [
+          0.0, 
+          1.0, 
+          0.0
+        ], 
+        "divergence": 0.0, 
+        "polarization_fraction": 0.999, 
+        "flux": 0.0, 
+        "sigma_divergence": 0.0, 
+        "wavelength": 0.919755
+      }
+    ], 
+    "detector": [
+      {
+        "hierarchy": {
+          "origin": [
+            0.0, 
+            0.0, 
+            0.0
+          ], 
+          "fast_axis": [
+            1.0, 
+            0.0, 
+            0.0
+          ], 
+          "name": "", 
+          "raw_image_offset": [
+            0, 
+            0
+          ], 
+          "slow_axis": [
+            0.0, 
+            1.0, 
+            0.0
+          ], 
+          "material": "", 
+          "mask": [], 
+          "thickness": 0.0, 
+          "mu": 0.0, 
+          "gain": 1.0, 
+          "trusted_range": [
+            0.0, 
+            0.0
+          ], 
+          "image_size": [
+            0, 
+            0
+          ], 
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }, 
+          "pedestal": 0.0, 
+          "identifier": "", 
+          "type": "", 
+          "children": [
+            {
+              "panel": 0
+            }
+          ], 
+          "pixel_size": [
+            0.0, 
+            0.0
+          ]
+        }, 
+        "panels": [
+          {
+            "origin": [
+              -120.64949999999999, 
+              119.75924999999998, 
+              -120.004
+            ], 
+            "fast_axis": [
+              1.0, 
+              0.0, 
+              0.0
+            ], 
+            "name": "Panel", 
+            "raw_image_offset": [
+              0, 
+              0
+            ], 
+            "slow_axis": [
+              0.0, 
+              -1.0, 
+              0.0
+            ], 
+            "material": "Si", 
+            "mask": [
+              [
+                1030, 
+                0, 
+                1040, 
+                3269
+              ], 
+              [
+                2070, 
+                0, 
+                2080, 
+                3269
+              ], 
+              [
+                0, 
+                514, 
+                3110, 
+                551
+              ], 
+              [
+                0, 
+                1065, 
+                3110, 
+                1102
+              ], 
+              [
+                0, 
+                1616, 
+                3110, 
+                1653
+              ], 
+              [
+                0, 
+                2167, 
+                3110, 
+                2204
+              ], 
+              [
+                0, 
+                2718, 
+                3110, 
+                2755
+              ]
+            ], 
+            "thickness": 0.45, 
+            "mu": 3.293934733494936, 
+            "gain": 1.0, 
+            "trusted_range": [
+              -1.0, 
+              12947.0
+            ], 
+            "image_size": [
+              3110, 
+              3269
+            ], 
+            "px_mm_strategy": {
+              "type": "ParallaxCorrectedPxMmStrategy"
+            }, 
+            "pedestal": 0.0, 
+            "identifier": "Dectris Eiger 9M, S/N E-18-0104", 
+            "type": "SENSOR_PAD", 
+            "pixel_size": [
+              0.075, 
+              0.075
+            ]
+          }
+        ]
+      }
+    ], 
+    "goniometer": [
+      {
+        "setting_rotation": [
+          1.0, 
+          0.0, 
+          0.0, 
+          0.0, 
+          1.0, 
+          0.0, 
+          0.0, 
+          0.0, 
+          1.0
+        ], 
+        "fixed_rotation": [
+          1.0, 
+          0.0, 
+          0.0, 
+          0.0, 
+          1.0, 
+          0.0, 
+          0.0, 
+          0.0, 
+          1.0
+        ], 
+        "rotation_axis": [
+          1.0, 
+          0.0, 
+          0.0
+        ]
+      }
+    ], 
+    "scan": [
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          1, 
+          1
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          2, 
+          2
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          3, 
+          3
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          4, 
+          4
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          5, 
+          5
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          6, 
+          6
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          7, 
+          7
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          8, 
+          8
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          9, 
+          9
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          10, 
+          10
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          11, 
+          11
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          12, 
+          12
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          13, 
+          13
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          14, 
+          14
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          15, 
+          15
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          16, 
+          16
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          17, 
+          17
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          18, 
+          18
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          19, 
+          19
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          20, 
+          20
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          21, 
+          21
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          22, 
+          22
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          23, 
+          23
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          24, 
+          24
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          25, 
+          25
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          26, 
+          26
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          27, 
+          27
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          28, 
+          28
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          29, 
+          29
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          30, 
+          30
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          31, 
+          31
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          32, 
+          32
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          33, 
+          33
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          34, 
+          34
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          35, 
+          35
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          36, 
+          36
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          37, 
+          37
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          38, 
+          38
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          39, 
+          39
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          40, 
+          40
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          41, 
+          41
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          42, 
+          42
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          43, 
+          43
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          44, 
+          44
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          45, 
+          45
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          46, 
+          46
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          47, 
+          47
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          48, 
+          48
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          49, 
+          49
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          50, 
+          50
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          51, 
+          51
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          52, 
+          52
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          53, 
+          53
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          54, 
+          54
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          55, 
+          55
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          56, 
+          56
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          57, 
+          57
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          58, 
+          58
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          59, 
+          59
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          60, 
+          60
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          61, 
+          61
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          62, 
+          62
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          63, 
+          63
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          64, 
+          64
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          65, 
+          65
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          66, 
+          66
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          67, 
+          67
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          68, 
+          68
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          69, 
+          69
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          70, 
+          70
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          71, 
+          71
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          72, 
+          72
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          73, 
+          73
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          74, 
+          74
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          75, 
+          75
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          76, 
+          76
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          77, 
+          77
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          78, 
+          78
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          79, 
+          79
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          80, 
+          80
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          81, 
+          81
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          82, 
+          82
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          83, 
+          83
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          84, 
+          84
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          85, 
+          85
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          86, 
+          86
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          87, 
+          87
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          88, 
+          88
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          89, 
+          89
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          90, 
+          90
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          91, 
+          91
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          92, 
+          92
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          93, 
+          93
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          94, 
+          94
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          95, 
+          95
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          96, 
+          96
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          97, 
+          97
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          98, 
+          98
+        ]
+      }, 
+      {
+        "exposure_time": [
+          0.005
+        ], 
+        "batch_offset": 0, 
+        "oscillation": [
+          270.0, 
+          0.0
+        ], 
+        "valid_image_ranges": {}, 
+        "epochs": [
+          0.0
+        ], 
+        "image_range": [
+          99, 
+          99
+        ]
+      }
+    ]
+  }
+]

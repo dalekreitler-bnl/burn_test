@@ -1,0 +1,15 @@
+DIALS (2018) Acta Cryst. D74, 85-97. https://doi.org/10.1107/S2059798317017235
+DIALS 1.14.12-g6954cb231-release
+The following parameters have been modified:
+
+input {
+  datablock = <image files>
+}
+
+--------------------------------------------------------------------------------
+  format: <class 'dxtbx.format.FormatCBFMiniEiger.FormatCBFMiniEiger'>
+  num images: 99
+  num sweeps: 0
+  num stills: 99
+--------------------------------------------------------------------------------
+Writing datablocks to datablock.json

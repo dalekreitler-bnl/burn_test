@@ -1,0 +1,12 @@
+# CBF file written by CBFlib v0.9.6
+# Detector: Dectris Eiger 9M, S/N E-18-0104
+# Pixel_size 75e-6 m x 75e-6 m
+# Silicon sensor, thickness 0.000450 m
+# Exposure_time 0.004997 s
+# Exposure_period 0.005000 s
+# Count_cutoff 12947 counts
+# Wavelength 0.919755 A
+# Detector_distance 0.120004 m
+# Beam_xy (1608.66, 1596.79) pixels
+# Start_angle 270.000000 deg.
+# Angle_increment 0.000000 deg.

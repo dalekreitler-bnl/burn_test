@@ -1,0 +1,4 @@
+input{
+method=reflections
+xds_file="SPOT.XDS"
+}
