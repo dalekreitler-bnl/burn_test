@@ -4,11 +4,16 @@ Spyder Editor
 
 This is a temporary script file.
 """
+
+import abc
 import numpy as np
 import math
+import subprocess
+from os import path
 
 
 class BurnModel:
+    
     def __init__():
         pass
     
@@ -19,13 +24,92 @@ class BurnModel:
         pass
 
 class BurnObject:
+    
     def __init__():
         pass
     
 class ResShell:
+    
     def __init__(self, d_min=0, d_max=1000):
         self.d_min = d_min
         self.d_max = d_max
+        
+class FileReader(abc.ABC):
+    
+    @abc.abstractmethod
+    def getDetector(self):
+        pass
+    
+    @abc.abstractmethod
+    def getDetDistance(self):
+        pass
+    
+    @abc.abstractmethod
+    def getPixelSize(self):
+        pass
+    
+    @abc.abstractmethod
+    def getExposureTime(self):
+        pass
+    
+    @abc.abstractmethod
+    def getWavelength(self):
+        pass
+    
+    @abc.abstractmethod
+    def getBeamx(self):
+        pass
+    
+    @abc.abstractmethod
+    def getBeamy(self):
+        pass
+    
+    @abc.abstractmethod
+    def getStartAngle(self):
+        pass
+    
+    @abc.abstractmethod
+    def getAngleIncrement(self):
+        pass
+
+class CbfReader(FileReader):
+    
+    def __init__(self):
+        self._fileSystem = None
+    
+    def getDetector(self):
+        pass
+        
+    def getPixelSize(self):
+        pass
+
+class FileReaderFactory:
+    
+    def getFileReader(self, format):
+        if format == "cbf":
+            return CbfReader()
+        elif format == "hdf5" or format == "h5":
+            return Hdf5Reader()
+
+class ExpParams:
+    
+    def __init__(self):
+        self._ExpReader = None
+        return
+        
+class FileSystem:
+    
+    def __init__(self, workingDirectory="$PWD", firstFrame=None):
+        self.workingDirectory = workingDirectory
+        self.firstFrame = firstFrame
+        self.checkInput()
+        
+    def checkInput(self):
+        
+        if path.isfile(self.firstFrame):
+            pass
+        else:
+            print("first frame does not exist")
 
 class ArrayHandler:
     
@@ -70,10 +154,7 @@ class ResolutionTools:
         return resolution
         
 def main():
-    test = ArrayHandler.readSPOTXDStoNpArray()
-    test = ArrayHandler.correctForDetCenter(test, 1600, 1600)
-    test = ArrayHandler.addResolutionColumn(test, 0.9, 150)
-    np.savetxt("testfile.txt",test)
+    FileSystem(firstFrame="burn_test2.py")
     
 if __name__ == "__main__":
     main()
